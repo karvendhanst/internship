@@ -1,0 +1,36 @@
+HTML - HYPER TEXT MARKUP LANGUAGE
+
+VERSION 5
+
+e.g
+
+tags
+
+<h1> Heading </h1>
+opening   content   closing tag
+tag
+
+Element
+
+
+Lists
+
+1. orderedList  <ol></ol>
+2. unorderedList <ul></ul>
+
+comments
+
+ctrl + /
+
+Iframe
+
+division tag - <div></div>
+
+Like box or container for bundle elements
+
+
+
+
+
+
+

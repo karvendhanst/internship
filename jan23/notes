@@ -1,0 +1,41 @@
+Forms
+
+Tables
+
+
+Block elements
+
+Covers full width
+starts with new line
+
+h1, h6
+p,
+form,
+div,
+table
+
+Inline elements
+
+covers only content width
+
+a,
+img,
+label
+span
+b, i, u
+
+
+semantic HTML
+
+header
+nav
+section
+aside
+footer
+
+
+
+
+
+
+

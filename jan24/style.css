@@ -1,0 +1,114 @@
+/* Element selector */
+
+/* h1{
+    color: green;
+} */
+/* 
+#title{
+    color: red;
+}
+
+#second{
+    color: blue;
+} */
+
+/* .text{
+    background-color: royalblue;
+    color: white;
+} */
+
+/* Attribute selector */
+/* input[type=password]{
+    background-color: red;
+} */
+
+.text{
+    background-color: royalblue;
+    color: white;
+
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    /* text-transform: capitalize; */
+
+    /* font-size: 20px;
+    font-weight: bold; */
+
+    /* letter-spacing: 3px;
+    word-spacing: 10px;
+    line-height: 30px;
+    text-indent: 100px;
+    text-align: justify; */
+
+}
+
+/* span{
+    font-size: 32px;
+} */
+
+
+/* .box{
+    width: 200px;
+    height: 200px;
+    background-color: hsl(225, 70%, 50%); 
+   
+} */
+
+.banner{
+    width: 100%;
+    height: 400px;
+    background-color: royalblue;
+
+    /* background-image: url(./1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    top, bottom, left, right, center   */
+
+
+    /* background-image: linear-gradient(to right , #ff0000, #0000ff); */
+
+    /* background-image: radial-gradient(#008000, #ffff00); */
+
+}
+
+/* Styling a tag */
+.link{
+    text-decoration: none;
+    color: orangered;
+}
+
+/* Remove list style */
+.list{
+    list-style-type: none;
+}
+
+.content{
+    text-decoration: none;
+    color: royalblue;
+}
+
+/* .content:hover{
+    color: orangered;
+    text-decoration: underline;
+} */
+
+/* .content:active{
+    background-color: gray;
+} */
+
+/* input:focus{
+    background-color: red;
+} */
+
+
+.model{
+    background-color: orangered;
+    padding: 20px;
+    /* padding: 20px 10px; top&bottom left&right
+    padding: 20px 10px 30px; top left&right bottom
+    padding: 10px 20px 30px 40px; top right bottom left */
+
+    /* margin: 20px; */
+
+    /* border: 3px solid black; */
+}

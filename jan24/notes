@@ -1,0 +1,55 @@
+CSS - CASCADING STYLE SHEET
+
+For style a HTML DOCUMENT
+
+VERSION - 3
+
+h1{
+    color: red;
+}
+
+h1 - selector
+color - property
+red - value
+
+CSS Styling Methods
+
+1. Inline method 1 priority
+2. Internal method 2 priority
+3. External method 3 priority
+
+Selectors
+
+1. Element selector
+2. Id selector
+3. Class selector
+4. Attribute selector
+
+
+Text Formatting
+
+colors
+
+color name - red
+rgb - red, green, blue - rgb(255,255,255)
+hex - #ffffff
+hsl - hue, saturation, lightning - hsl(120, 100%, 50%)
+
+background
+
+
+Linear gradient
+radial gradient
+
+hover, active, focus
+
+
+Box Model
+
+
+
+
+
+
+
+

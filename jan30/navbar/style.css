@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+.list{
+    list-style-type: none;
+    display: flex;
+    gap: 0 20px;
+}
+nav{
+    padding: 10px 30px;
+    background-color: royalblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    color: #fff;
+    font-size: 32px;
+}
+.list li a{
+    color: #fff;
+    font-size: 28px;
+}
+.toggle{
+    font-size: 22px;
+    color: #fff;
+    display: none;
+}
+
+@media screen and (max-width: 557px) {
+    .list{
+        display: none;
+    }
+    .toggle{
+        display: block;
+    }
+}

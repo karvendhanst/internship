@@ -1,0 +1,79 @@
+Media queries
+
+max-width
+min-width
+
+Javascript
+
+For Interactive websites
+
+js is a programming or scripting language
+
+Executes only in browser
+
+Client side language
+
+Javascript Engine - Script to machine code - 0, 1
+
+v8 Engine - chrome, edge, opera
+spidermonkey - firefox
+
+ECMA Script - ES
+
+Standard for Javascript
+set of rules
+
+variables
+
+let a = 10;
+
+let - keyword
+let a; - declaration
+let a = 10; - assign
+
+rules for create variables:
+
+should not start with numbers
+special characters - $, _
+should not use js keywords
+unique
+case sensitive
+
+Data types:
+
+1. Number = int 4, float 1.2, double 0.87758578257
+2. String = "hello world" , 'hello'
+3. Boolean = true, false
+
+4. Null
+5. Undefined
+
+Operators: 
+
+1. Arithmetic operators - +, -, *, **, /, %, ++, --
+++ increment, -- decrement
+
+2. Assignment operators - =, +=, -=, *=, /=, %=, **=
+3. Comparison Operator - ==, ===, !=, !==, >, <, >=, <=
+
+4. Logical Operator - &&, ||, !
+5. Bitwise Operator - &, |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

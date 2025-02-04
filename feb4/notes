@@ -1,0 +1,91 @@
+Logical Operator
+
+&&, ||, !
+and, or, not
+
+AND 
+
+t t - t
+t f - f
+f t - f
+f f - f
+
+OR
+
+t t - t
+t f - t
+f t - t
+f f - f
+
+Bitwise Operator
+
+&, |
+
+0101 - 5
+0111 - 7
+
+0111 - 7 |
+
+
+0101 - 5 &
+
+Conditions Statement
+
+if, else if, else
+switch
+ternary Operator
+
+
+
+
+Loops
+
+For Iteration process
+
+for, while, do while
+
+for(let i=0; i<5; i++){
+    console.log(i);
+}
+
+Tasks
+
+1 * 2 = 2
+2 * 2 = 4
+10 * 2 = 20
+
+*
+**
+***
+****
+*****
+
+*****
+****
+***
+**
+*
+
+Array
+
+For Store Data structure
+and collect data using index value
+
+[1,2,3,4,5]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

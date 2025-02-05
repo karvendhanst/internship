@@ -1,0 +1,56 @@
+Array Iteration Methods
+
+[1,2,3,4,5]
+
+forEach()
+map()
+filter()
+reduce()
+
+callback function
+
+let num2 = num1.map(function(item){
+    return item*2
+})
+
+Objects
+
+Store data as data structure
+
+{name: "john", age: 22}
+
+name - property
+"john" - value
+
+Arrow Functions
+
+() => {
+
+}
+
+IIFE - Immediately invoked Function Expression
+
+DOM - Document Object Model
+
+Document Object Model (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document
+
+getElementByTagName
+getElementById
+getElementByClassName
+querySelector
+querySelectorAll
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

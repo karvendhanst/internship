@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: 300px;
+    height: 400px;
+    background-color: royalblue;
+    padding: 15px;
+}
+
+input{
+    width: 75%;
+    border: none;
+    outline: none;
+    padding: 7px 12px;
+    border-radius: 4px;
+
+}
+
+.input-section button{
+    border: none;
+    padding: 6px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+ul{
+    margin-top: 30px;
+    list-style-type: none;
+    text-align: center;
+}
+
+ul li{
+    margin-bottom: 20px;
+    color: #fff;
+    cursor: pointer;
+}
